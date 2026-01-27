@@ -1,0 +1,35 @@
+[
+    {
+        "nom": "Girard",
+        "prenom": "Pierre",
+        "age": 28,
+        "poids": 66.4,
+        "ville_naissance": "Londres",
+        "date_naissance": "1997-06-11",
+        "taille": 1.93,
+        "imc": 17.83,
+        "pays_naissance": "Angleterre"
+    },
+    {
+        "nom": "Martin",
+        "prenom": "Luc",
+        "age": 73,
+        "poids": 58.9,
+        "ville_naissance": "Lisbonne",
+        "date_naissance": "1952-11-07",
+        "taille": 1.9,
+        "imc": 16.32,
+        "pays_naissance": "Portugal"
+    },
+    {
+        "nom": "Dupont",
+        "prenom": "Sophie",
+        "age": 40,
+        "poids": 46.7,
+        "ville_naissance": "Lisbonne",
+        "date_naissance": "1985-01-09",
+        "taille": 1.63,
+        "imc": 17.58,
+        "pays_naissance": "Portugal"
+    }
+]
