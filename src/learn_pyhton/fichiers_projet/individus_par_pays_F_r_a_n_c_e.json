@@ -1,0 +1,24 @@
+[
+    {
+        "nom": "Fournier",
+        "prenom": "Pierre",
+        "age": 39,
+        "poids": 41.6,
+        "ville_naissance": "Paris",
+        "date_naissance": "1986-08-08",
+        "taille": 1.7,
+        "imc": 14.39,
+        "pays_naissance": "France"
+    },
+    {
+        "nom": "Martin",
+        "prenom": "Julie",
+        "age": 25,
+        "poids": 116.1,
+        "ville_naissance": "Paris",
+        "date_naissance": "2000-03-10",
+        "taille": 1.66,
+        "imc": 42.13,
+        "pays_naissance": "France"
+    }
+]

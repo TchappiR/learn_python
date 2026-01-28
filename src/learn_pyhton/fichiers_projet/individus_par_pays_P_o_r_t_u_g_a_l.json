@@ -1,0 +1,112 @@
+[
+    {
+        "nom": "Durand",
+        "prenom": "Marie",
+        "age": 23,
+        "poids": 99.5,
+        "ville_naissance": "Lisbonne",
+        "date_naissance": "2002-05-16",
+        "taille": 1.92,
+        "imc": 26.99,
+        "pays_naissance": "Portugal"
+    },
+    {
+        "nom": "Dupont",
+        "prenom": "Sophie",
+        "age": 40,
+        "poids": 46.7,
+        "ville_naissance": "Lisbonne",
+        "date_naissance": "1985-01-09",
+        "taille": 1.63,
+        "imc": 17.58,
+        "pays_naissance": "Portugal"
+    },
+    {
+        "nom": "Durand",
+        "prenom": "Marie",
+        "age": 43,
+        "poids": 62.9,
+        "ville_naissance": "Lisbonne",
+        "date_naissance": "1982-10-18",
+        "taille": 1.84,
+        "imc": 18.58,
+        "pays_naissance": "Portugal"
+    },
+    {
+        "nom": "Durand",
+        "prenom": "Sophie",
+        "age": 70,
+        "poids": 59.9,
+        "ville_naissance": "Lisbonne",
+        "date_naissance": "1955-11-08",
+        "taille": 1.72,
+        "imc": 20.25,
+        "pays_naissance": "Portugal"
+    },
+    {
+        "nom": "Martin",
+        "prenom": "Luc",
+        "age": 73,
+        "poids": 58.9,
+        "ville_naissance": "Lisbonne",
+        "date_naissance": "1952-11-07",
+        "taille": 1.9,
+        "imc": 16.32,
+        "pays_naissance": "Portugal"
+    },
+    {
+        "nom": "Girard",
+        "prenom": "Jean",
+        "age": 42,
+        "poids": 91.2,
+        "ville_naissance": "Lisbonne",
+        "date_naissance": "1983-01-20",
+        "taille": 1.51,
+        "imc": 40.0,
+        "pays_naissance": "Portugal"
+    },
+    {
+        "nom": "Martin",
+        "prenom": "Marie",
+        "age": 47,
+        "poids": 51.4,
+        "ville_naissance": "Lisbonne",
+        "date_naissance": "1978-10-07",
+        "taille": 1.75,
+        "imc": 16.78,
+        "pays_naissance": "Portugal"
+    },
+    {
+        "nom": "Martin",
+        "prenom": "Marie",
+        "age": 59,
+        "poids": 71.1,
+        "ville_naissance": "Lisbonne",
+        "date_naissance": "1966-08-08",
+        "taille": 1.93,
+        "imc": 19.09,
+        "pays_naissance": "Portugal"
+    },
+    {
+        "nom": "Bernard",
+        "prenom": "Jean",
+        "age": 58,
+        "poids": 41.0,
+        "ville_naissance": "Lisbonne",
+        "date_naissance": "1967-08-25",
+        "taille": 1.66,
+        "imc": 14.88,
+        "pays_naissance": "Portugal"
+    },
+    {
+        "nom": "Girard",
+        "prenom": "Julie",
+        "age": 56,
+        "poids": 90.1,
+        "ville_naissance": "Lisbonne",
+        "date_naissance": "1969-11-18",
+        "taille": 1.78,
+        "imc": 28.44,
+        "pays_naissance": "Portugal"
+    }
+]

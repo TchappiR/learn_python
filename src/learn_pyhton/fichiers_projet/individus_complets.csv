@@ -1,51 +1,51 @@
 nom,prenom,age,poids,taille,imc,ville_naissance,pays_naissance,date_naissance
-Moreau,Paul,19,113.9,1.64,42.35,Tokyo,Japon,2006-01-03
-Durand,Pierre,26,84.9,1.87,24.28,Tokyo,Japon,1999-11-24
-Dupont,Luc,62,90.6,1.79,28.28,Sydney,Australie,1963-06-07
-Fournier,Claire,66,43.8,1.58,17.55,Berlin,Allemagne,1959-09-18
-Bernard,Marie,30,57.7,1.74,19.06,New York,États-Unis,1995-10-05
-Bernard,Claire,56,84.9,1.75,27.72,Londres,Royaume-Uni,1969-06-19
-Bernard,Jean,18,90.5,1.73,30.24,Moscou,Russie,2007-05-11
-Girard,Sophie,65,47.0,1.78,14.83,Moscou,Russie,1960-01-05
-Durand,Paul,22,43.2,1.87,12.35,Londres,Royaume-Uni,2003-11-21
-Fournier,Pierre,51,90.0,1.7,31.14,Paris,France,1974-09-17
-Girard,Paul,65,109.9,1.75,35.89,Tokyo,Japon,1960-11-30
-Durand,Julie,57,64.5,1.53,27.55,New York,États-Unis,1968-02-06
-Martin,Marie,68,99.7,1.82,30.1,Paris,France,1957-06-11
-Durand,Claire,54,83.9,1.61,32.37,Moscou,Russie,1971-11-05
-Dupont,Claire,29,107.2,1.95,28.19,Tokyo,Japon,1996-04-01
-Lefevre,Paul,67,81.6,1.67,29.26,Berlin,Allemagne,1958-07-25
-Fournier,Sophie,76,57.6,1.81,17.58,Rio,Brésil,1949-09-29
-Lefevre,Jean,72,75.9,1.52,32.85,Tokyo,Japon,1953-02-07
-Girard,Claire,32,96.0,1.58,38.46,Moscou,Russie,1993-06-21
-Fournier,Luc,26,108.7,1.55,45.24,Paris,France,1999-07-06
-Girard,Jean,73,96.7,1.67,34.67,Rio,Brésil,1952-10-12
-Girard,Marie,71,58.0,1.7,20.07,Sydney,Australie,1954-09-16
-Girard,Julie,46,43.9,1.78,13.86,Moscou,Russie,1979-07-14
-Moreau,Pierre,40,103.2,1.9,28.59,Lisbonne,Portugal,1985-10-20
-Girard,Luc,64,84.9,1.8,26.2,Tokyo,Japon,1961-02-21
-Moreau,Pierre,42,59.0,1.95,15.52,Moscou,Russie,1983-06-08
-Dupont,Luc,34,101.8,1.77,32.49,New York,États-Unis,1991-10-15
-Dupont,Jean,25,70.8,1.82,21.37,Rio,Brésil,2000-09-23
-Bernard,Pierre,48,77.5,1.67,27.79,New York,États-Unis,1977-02-25
-Moreau,Luc,51,90.8,1.91,24.89,Tokyo,Japon,1974-10-17
-Martin,Sophie,53,66.9,1.88,18.93,New York,États-Unis,1972-03-15
-Dupont,Sophie,24,117.2,1.88,33.16,Moscou,Russie,2001-02-20
-Girard,Paul,57,107.1,1.81,32.69,New York,États-Unis,1968-09-12
-Durand,Jean,36,40.7,1.56,16.72,Paris,France,1989-06-26
-Durand,Claire,80,94.0,1.81,28.69,Paris,France,1945-10-25
-Durand,Jean,62,96.0,1.63,36.13,Lisbonne,Portugal,1963-01-05
-Durand,Marie,37,119.2,1.74,39.37,New York,États-Unis,1988-02-09
-Bernard,Sophie,36,98.1,1.9,27.17,Tokyo,Japon,1989-11-05
-Durand,Sophie,65,100.7,1.92,27.32,Tokyo,Japon,1960-08-28
-Fournier,Paul,66,90.1,1.64,33.5,Rio,Brésil,1959-04-09
-Dupont,Paul,49,92.5,1.67,33.17,Sydney,Australie,1976-05-07
-Durand,Sophie,57,43.1,1.59,17.05,Paris,France,1968-12-10
-Bernard,Julie,32,90.7,1.94,24.1,Sydney,Australie,1993-11-07
-Bernard,Jean,71,61.9,1.82,18.69,Berlin,Allemagne,1954-02-07
-Martin,Sophie,73,69.6,1.56,28.6,Tokyo,Japon,1952-07-23
-Durand,Paul,55,62.5,1.71,21.37,New York,États-Unis,1970-03-02
-Durand,Luc,47,44.4,1.62,16.92,Lisbonne,Portugal,1978-07-02
-Girard,Luc,24,114.2,1.97,29.43,Berlin,Allemagne,2001-11-09
-Moreau,Paul,68,100.0,1.68,35.43,New York,États-Unis,1957-12-28
-Martin,Julie,54,70.2,1.91,19.24,Sydney,Australie,1971-07-31
+Durand,Marie,23,99.5,1.92,26.99,Lisbonne,Portugal,2002-05-16
+Lefevre,Marie,65,43.1,1.88,12.19,Berlin,Allemagne,1960-03-31
+Bernard,Paul,33,74.1,1.71,25.34,Londres,Angleterre,1992-05-06
+Dupont,Sophie,40,46.7,1.63,17.58,Lisbonne,Portugal,1985-01-09
+Moreau,Jean,47,49.6,1.76,16.01,Londres,Angleterre,1978-11-22
+Fournier,Pierre,39,41.6,1.7,14.39,Paris,France,1986-08-08
+Moreau,Pierre,44,110.0,1.89,30.79,Moscou,Russie,1981-08-20
+Moreau,Claire,45,103.3,1.65,37.94,Tokyo,Japon,1980-10-03
+Dupont,Luc,56,45.5,1.74,15.03,Sydney,Australie,1969-08-19
+Martin,Luc,70,57.3,1.79,17.88,Sydney,Australie,1955-04-25
+Martin,Luc,43,91.6,1.95,24.09,New York,Etats Unis,1982-12-06
+Dupont,Jean,48,69.2,1.75,22.6,Tokyo,Japon,1977-02-07
+Lefevre,Marie,44,101.1,1.64,37.59,Moscou,Russie,1981-06-06
+Dupont,Sophie,64,43.1,1.88,12.19,Sydney,Australie,1961-11-04
+Moreau,Claire,51,42.7,1.81,13.03,Sydney,Australie,1974-11-12
+Moreau,Marie,29,43.7,1.63,16.45,Berlin,Allemagne,1996-11-22
+Girard,Luc,34,79.4,1.95,20.88,Londres,Angleterre,1991-10-13
+Lefevre,Jean,60,110.7,1.99,27.95,Tokyo,Japon,1965-11-20
+Durand,Paul,40,115.2,1.91,31.58,Rio,Brasil,1985-10-30
+Bernard,Paul,25,73.8,1.95,19.41,Rio,Brasil,2000-02-15
+Martin,Julie,25,116.1,1.66,42.13,Paris,France,2000-03-10
+Lefevre,Paul,37,104.8,1.86,30.29,New York,Etats Unis,1988-03-13
+Durand,Claire,26,103.3,1.95,27.17,Londres,Angleterre,1999-11-08
+Durand,Marie,43,62.9,1.84,18.58,Lisbonne,Portugal,1982-10-18
+Lefevre,Julie,21,52.6,1.74,17.37,Tokyo,Japon,2004-06-09
+Durand,Luc,43,98.8,1.55,41.12,Sydney,Australie,1982-10-23
+Durand,Sophie,70,59.9,1.72,20.25,Lisbonne,Portugal,1955-11-08
+Moreau,Luc,49,119.6,1.81,36.51,Rio,Brasil,1976-01-03
+Dupont,Marie,73,66.6,1.96,17.34,Rio,Brasil,1952-02-24
+Bernard,Jean,46,64.0,1.98,16.32,Moscou,Russie,1979-10-28
+Bernard,Paul,66,111.2,1.74,36.73,Berlin,Allemagne,1959-05-05
+Girard,Pierre,28,66.4,1.93,17.83,Londres,Angleterre,1997-06-11
+Fournier,Julie,77,107.8,1.63,40.57,Rio,Brasil,1948-05-10
+Martin,Luc,73,58.9,1.9,16.32,Lisbonne,Portugal,1952-11-07
+Dupont,Claire,55,51.6,1.77,16.47,Sydney,Australie,1970-03-26
+Girard,Jean,42,91.2,1.51,40.0,Lisbonne,Portugal,1983-01-20
+Girard,Pierre,30,47.8,1.86,13.82,Sydney,Australie,1995-04-10
+Durand,Julie,22,49.3,1.7,17.06,Tokyo,Japon,2003-04-24
+Durand,Jean,45,48.2,1.91,13.21,Londres,Angleterre,1980-03-10
+Martin,Jean,52,116.9,1.83,34.91,Moscou,Russie,1973-11-01
+Girard,Jean,60,55.3,1.5,24.58,Moscou,Russie,1965-11-28
+Martin,Marie,47,51.4,1.75,16.78,Lisbonne,Portugal,1978-10-07
+Martin,Marie,59,71.1,1.93,19.09,Lisbonne,Portugal,1966-08-08
+Girard,Julie,69,76.0,1.62,28.96,Londres,Angleterre,1956-03-05
+Bernard,Jean,58,41.0,1.66,14.88,Lisbonne,Portugal,1967-08-25
+Dupont,Julie,24,51.4,1.94,13.66,New York,Etats Unis,2001-09-04
+Bernard,Luc,38,58.9,1.6,23.01,Rio,Brasil,1987-12-30
+Girard,Julie,56,90.1,1.78,28.44,Lisbonne,Portugal,1969-11-18
+Durand,Marie,57,60.0,1.62,22.86,Sydney,Australie,1968-06-24
+Fournier,Julie,33,42.5,1.98,10.84,Berlin,Allemagne,1992-12-21
